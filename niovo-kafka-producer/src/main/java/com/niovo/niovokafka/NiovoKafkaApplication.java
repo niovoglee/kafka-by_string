@@ -11,3 +11,4 @@ public class NiovoKafkaApplication {
         SpringApplication.run(NiovoKafkaApplication.class, args);
     }
 }
+
